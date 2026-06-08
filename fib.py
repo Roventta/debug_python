@@ -17,6 +17,6 @@ two = 2
 three = one + two
 
 i = 3
-print("calculating fib", i)
-
+print("calculating fib", i, ": ")
 result = fib(i)
+print(result)
